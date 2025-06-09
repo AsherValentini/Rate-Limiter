@@ -1,0 +1,15 @@
+SpaceBeforeParens: ControlStatements
+SpacesInParentheses: false
+SpacesInAngles: false
+SpaceAfterCStyleCast: true
+PointerAlignment: Left
+
+# Class formatting
+AlwaysBreakAfterReturnType: None
+ConstructorInitializerIndentWidth: 4
+AccessModifierOffset: -2
+IndentCaseLabels: true
+
+# Misc
+SortIncludes: false
+ColumnLimit: 100
